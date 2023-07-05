@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋 I'm Fernando
 
-<!--
-**fariassdev/fariassdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate Backend Developer specializing in building robust and scalable web applications using the NodeJS, GraphQL, and TypeScript stack. With +6 years of experience, I have a deep understanding of backend development principles and a strong commitment to writing clean, maintainable, and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL
+- **GraphQL:** Apollo Server
+- **API Development:** RESTful APIs, GraphQL APIs
+- **Testing:** Jest, Mocha
+- **Cloud:** AWS, Docker, Kubernetes
+- **Version Control:** Git, GitHub
+
+## Get in Touch
+
+Feel free to reach out to me through the following channels:
+
+- Email: farias.santos.dev@gmail.com
+- LinkedIn: [Link to my profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fernando-arias-santos-5a49a010b)https://www.linkedin.com/in/fernando-arias-santos-5a49a010b)
