@@ -20,4 +20,4 @@ I'm a passionate Backend Developer specializing in building robust and scalable 
 Feel free to reach out to me through the following channels:
 
 - Email: farias.santos.dev@gmail.com
-- LinkedIn: [Link to my profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fernando-arias-santos-5a49a010b)https://www.linkedin.com/in/fernando-arias-santos-5a49a010b)
+- LinkedIn: [Link to my profile](https://www.linkedin.com/in/fernando-arias-santos-5a49a010b)
