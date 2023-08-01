@@ -10,7 +10,7 @@ I'm a passionate Backend Developer specializing in building robust and scalable 
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL
 - **GraphQL:** Apollo Server
-- **API Development:** RESTful APIs, GraphQL APIs
+- **API Development:** GraphQL APIs, RESTful APIs
 - **Testing:** Jest, Mocha
 - **Cloud:** AWS, Docker, Kubernetes
 - **Version Control:** Git, GitHub
