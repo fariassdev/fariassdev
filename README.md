@@ -21,3 +21,5 @@ Feel free to reach out to me through the following channels:
 
 - Email: farias.santos.dev@gmail.com
 - LinkedIn: [Link to my profile](https://www.linkedin.com/in/fernando-arias-santos-5a49a010b)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fariassdev&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
